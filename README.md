@@ -1,13 +1,11 @@
 # SEP11 Freedom Project
-by X
+by Jing Yuan wang   
 
-## Context
-The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to X.
+## Info
+The "Freedom Project" for SEP11 is all about Javascript. The purpose of this blog is to use Javascript to create interactive programs.
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
-
-## Links
+For my project, I am making a 2d game/software. This blog will walk through my process of independently studying Matter.js in order to make 2d game/software.
 
 Product
 
