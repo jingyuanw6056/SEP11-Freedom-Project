@@ -1,5 +1,5 @@
 # Entry 2
-##### X/X/XX
+##### 12/1/2020
 
 First, I have decided on using [Matter.Js](https://brm.io/matter-js/) for my Freedom project
 
