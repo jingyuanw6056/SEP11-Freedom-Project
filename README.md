@@ -7,12 +7,12 @@ The "Freedom Project" for SEP11 is all about Javascript. The purpose of this blo
 ## Content
 For my project, I am making a 2d game/software. This blog will walk through my process of independently studying Matter.js in order to make 2d game/software.
 
-Product
+[Product](https://replit.com/@Jing_YuanYuan/freedom-project-sep11a)
 
-Presentation
+[Presentation](https://docs.google.com/presentation/d/1NU_Fd_bK9NJukwh9aVBlNCvSu1ZE-bcftP7vUFzJsqE/edit?usp=sharing) - Only HSTAT gmail accounts can view
 
 ## Implications
-X
+At the end of this project, I should be able to practice with different online tools/engines to help me achieve my goal more easily. 
 
 ---
 
